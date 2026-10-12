@@ -1,0 +1,9 @@
+1. One key difference I noticed is that float moves elements to one side, while Flexbox makes it easier to organize and align elements.
+
+2. Flexbox felt easier to use because I could control the position and spacing of elements more easily.
+
+3. Using margin, padding, and borders helped me control the spacing and appearance of each element.
+
+4. One challenge I faced was getting the elements positioned and spaced the way I wanted.
+
+5. I feel more confident using HTML and CSS to create and style different layouts.

@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #2f6f73;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: 30px auto;
+}
+
+
+.box {
+    /*Box model demonstration*/
+    background-color: #e4f1f2;
+
+    /* CONTENT */
+    width: 100%;
+
+    /* PADDING */
+    padding: 20px;
+
+    /* BORDER */
+    border: 2px solid #2f6f73;
+
+    /* MARGIN (space outside) */
+    margin-bottom: 20px;
+}
+
+.highlight {
+    color: #c0392b;
+    font-weight: bold;
+}
+
+footer{
+    background-color: #2f6f73;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
